@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Calculadora IVA a IGIC",
+    "version": "1.0",
+    "description": "Convierte precios con IVA a precios con IGIC",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
