@@ -2,9 +2,26 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
+    background-color: aliceblue;
 }
 
 input, button {
     margin: 10px;
     padding: 5px;
+}
+
+.precioBase {
+    color: rgb(45, 45, 45);
+}
+
+.cantidadIVA {
+    color: rgb(209, 15, 15);
+}
+
+.precioIGIC {
+    color: rgb(27, 162, 27);
+}
+
+.cantidadIGIC {
+    color: rgb(41, 104, 250);
 }
